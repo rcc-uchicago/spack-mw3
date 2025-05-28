@@ -1,0 +1,210 @@
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E /tmp/pnsinha/cgJjfWKU/dummy.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E -
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -qversion
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -version
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E conftest.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E conftest.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E conftest.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E conftest.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E conftest.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E conftest.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E conftest.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c -ltermcap
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c -ltinfo
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c -lcurses
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c -lncurses
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 conftest.c -lncursesw
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -L./lib/termcap conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -L./lib/termcap conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -L./lib/termcap conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -L./lib/termcap conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -L./lib/termcap conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -L./lib/termcap conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -L./lib/termcap conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -L./lib/termcap conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -L./lib/termcap conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -L./lib/termcap conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -L./lib/termcap conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -L./lib/termcap conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -L./lib/termcap conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -L./lib/termcap conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -L./lib/termcap conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -L./lib/termcap conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -L./lib/termcap conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -L./lib/termcap conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -L./lib/termcap conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -L./lib/termcap conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -L./lib/termcap conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare readline.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare vi_mode.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare funmap.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare keymaps.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare parens.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare search.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare rltty.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare complete.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare bind.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare isearch.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare display.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare signals.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare util.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare kill.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare undo.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare macro.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare input.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare callback.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare terminal.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare text.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare nls.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare misc.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare history.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare histfile.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare histexpand.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare histsearch.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare shell.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare mbutil.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -DREADLINE_LIBRARY -c ./tilde.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare colors.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare parse-colors.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare xmalloc.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare xfree.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare compat.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o readline.o ../readline.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o vi_mode.o ../vi_mode.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o keymaps.o ../keymaps.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o funmap.o ../funmap.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o search.o ../search.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o rltty.o ../rltty.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o parens.o ../parens.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o complete.o ../complete.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o bind.o ../bind.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o isearch.o ../isearch.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o display.o ../display.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o signals.o ../signals.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o util.o ../util.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o macro.o ../macro.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o kill.o ../kill.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o undo.o ../undo.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o input.o ../input.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o callback.o ../callback.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o terminal.o ../terminal.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o nls.o ../nls.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o text.o ../text.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o misc.o ../misc.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o history.o ../history.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o histexpand.o ../histexpand.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o histfile.o ../histfile.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o histsearch.o ../histsearch.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o shell.o ../shell.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o mbutil.o ../mbutil.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o colors.o ../colors.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -DREADLINE_LIBRARY -c -o tilde.o ../tilde.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o parse-colors.o ../parse-colors.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o xmalloc.o ../xmalloc.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o compat.o ../compat.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -DHAVE_CONFIG_H -I. -I.. -I.. -DRL_LIBRARY_VERSION="8.2" -DBRACKETED_PASTE_DEFAULT=1 -g -O2 -Wno-parentheses -Wno-format-security -Wno-tautological-constant-out-of-range-compare -fPIC -o xfree.o ../xfree.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -shared -Wl,-soname,libhistory.so.8.2 -L./lib/termcap -Wl,-rpath,/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/readline-8.2-yqodho6/lib -Wl,-soname,libhistory.so.8 -o libhistory.so.8.2 history.so histexpand.so histfile.so histsearch.so shell.so mbutil.so xmalloc.so xfree.so
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -shared -Wl,-soname,libreadline.so.8.2 -L./lib/termcap -Wl,-rpath,/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/readline-8.2-yqodho6/lib -Wl,-soname,libreadline.so.8 -o libreadline.so.8.2 readline.so vi_mode.so funmap.so keymaps.so parens.so search.so rltty.so complete.so bind.so isearch.so display.so signals.so util.so kill.so undo.so macro.so input.so callback.so terminal.so text.so nls.so misc.so history.so histexpand.so histfile.so histsearch.so shell.so mbutil.so tilde.so colors.so parse-colors.so xmalloc.so xfree.so compat.so

@@ -1,0 +1,203 @@
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -qversion
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -D_GNU_SOURCE conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -D_GNU_SOURCE conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c conftest.c -o conftest2.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c conftest.c -o conftest2.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -MT sub/conftest.o -MD -MP -MF sub/conftest.TPo -c -o sub/conftest.o sub/conftest.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E -D_GNU_SOURCE conftest.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E -D_GNU_SOURCE conftest.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E -D_GNU_SOURCE conftest.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E -D_GNU_SOURCE conftest.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E /tmp/pnsinha/cgWb0ZDf/dummy.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -print-prog-name=ld
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE conftest.c conftstm.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E -D_GNU_SOURCE conftest.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E -D_GNU_SOURCE conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE -fno-rtti -fno-exceptions conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE -fPIC -DPIC -DPIC conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE -static conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE -o out/conftest2.o conftest.c
+[ld] ld -m elf_x86_64 --help
+[ld] ld -m elf_x86_64 --help
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -print-search-dirs
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -D_GNU_SOURCE -g -O2 -print-multi-os-directory
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE -Wl,-rpath -Wl,/foo conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -print-prog-name=ld
+[ld] ld -m elf_x86_64 --help
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -print-search-dirs
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE conftest.c -Wl,-framework -Wl,CoreFoundation
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE conftest.c -Wl,-framework -Wl,CoreFoundation
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E -D_GNU_SOURCE conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE conftest.c -lncurses
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE conftest.c -lcurses
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE conftest.c -ltermcap
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -o conftest -g -O2 -D_GNU_SOURCE conftest.c -lreadline
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cpp] /software/gcc-12.2.0-el8-x86_64/bin/gcc -E -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -c -g -O2 -D_GNU_SOURCE conftest.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmclose.lo -MD -MP -MF .deps/gdbmclose.Tpo -c gdbmclose.c -fPIC -DPIC -o .libs/gdbmclose.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmdump.lo -MD -MP -MF .deps/gdbmdump.Tpo -c gdbmdump.c -fPIC -DPIC -o .libs/gdbmdump.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmcount.lo -MD -MP -MF .deps/gdbmcount.Tpo -c gdbmcount.c -fPIC -DPIC -o .libs/gdbmcount.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmerrno.lo -MD -MP -MF .deps/gdbmerrno.Tpo -c gdbmerrno.c -fPIC -DPIC -o .libs/gdbmerrno.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmexists.lo -MD -MP -MF .deps/gdbmexists.Tpo -c gdbmexists.c -fPIC -DPIC -o .libs/gdbmexists.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmfetch.lo -MD -MP -MF .deps/gdbmfetch.Tpo -c gdbmfetch.c -fPIC -DPIC -o .libs/gdbmfetch.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmdelete.lo -MD -MP -MF .deps/gdbmdelete.Tpo -c gdbmdelete.c -fPIC -DPIC -o .libs/gdbmdelete.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmfdesc.lo -MD -MP -MF .deps/gdbmfdesc.Tpo -c gdbmfdesc.c -fPIC -DPIC -o .libs/gdbmfdesc.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmopen.lo -MD -MP -MF .deps/gdbmopen.Tpo -c gdbmopen.c -fPIC -DPIC -o .libs/gdbmopen.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmload.lo -MD -MP -MF .deps/gdbmload.Tpo -c gdbmload.c -fPIC -DPIC -o .libs/gdbmload.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmexp.lo -MD -MP -MF .deps/gdbmexp.Tpo -c gdbmexp.c -fPIC -DPIC -o .libs/gdbmexp.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmreorg.lo -MD -MP -MF .deps/gdbmreorg.Tpo -c gdbmreorg.c -fPIC -DPIC -o .libs/gdbmreorg.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmstore.lo -MD -MP -MF .deps/gdbmstore.Tpo -c gdbmstore.c -fPIC -DPIC -o .libs/gdbmstore.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmimp.lo -MD -MP -MF .deps/gdbmimp.Tpo -c gdbmimp.c -fPIC -DPIC -o .libs/gdbmimp.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmseq.lo -MD -MP -MF .deps/gdbmseq.Tpo -c gdbmseq.c -fPIC -DPIC -o .libs/gdbmseq.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmsetopt.lo -MD -MP -MF .deps/gdbmsetopt.Tpo -c gdbmsetopt.c -fPIC -DPIC -o .libs/gdbmsetopt.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmclose.lo -MD -MP -MF .deps/gdbmclose.Tpo -c gdbmclose.c -o gdbmclose.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmfdesc.lo -MD -MP -MF .deps/gdbmfdesc.Tpo -c gdbmfdesc.c -o gdbmfdesc.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmcount.lo -MD -MP -MF .deps/gdbmcount.Tpo -c gdbmcount.c -o gdbmcount.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmexists.lo -MD -MP -MF .deps/gdbmexists.Tpo -c gdbmexists.c -o gdbmexists.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmerrno.lo -MD -MP -MF .deps/gdbmerrno.Tpo -c gdbmerrno.c -o gdbmerrno.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmreorg.lo -MD -MP -MF .deps/gdbmreorg.Tpo -c gdbmreorg.c -o gdbmreorg.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmdelete.lo -MD -MP -MF .deps/gdbmdelete.Tpo -c gdbmdelete.c -o gdbmdelete.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmfetch.lo -MD -MP -MF .deps/gdbmfetch.Tpo -c gdbmfetch.c -o gdbmfetch.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmexp.lo -MD -MP -MF .deps/gdbmexp.Tpo -c gdbmexp.c -o gdbmexp.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmstore.lo -MD -MP -MF .deps/gdbmstore.Tpo -c gdbmstore.c -o gdbmstore.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmdump.lo -MD -MP -MF .deps/gdbmdump.Tpo -c gdbmdump.c -o gdbmdump.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmseq.lo -MD -MP -MF .deps/gdbmseq.Tpo -c gdbmseq.c -o gdbmseq.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmimp.lo -MD -MP -MF .deps/gdbmimp.Tpo -c gdbmimp.c -o gdbmimp.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmsync.lo -MD -MP -MF .deps/gdbmsync.Tpo -c gdbmsync.c -fPIC -DPIC -o .libs/gdbmsync.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT avail.lo -MD -MP -MF .deps/avail.Tpo -c avail.c -fPIC -DPIC -o .libs/avail.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmsetopt.lo -MD -MP -MF .deps/gdbmsetopt.Tpo -c gdbmsetopt.c -o gdbmsetopt.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT base64.lo -MD -MP -MF .deps/base64.Tpo -c base64.c -fPIC -DPIC -o .libs/base64.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT bucket.lo -MD -MP -MF .deps/bucket.Tpo -c bucket.c -fPIC -DPIC -o .libs/bucket.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT findkey.lo -MD -MP -MF .deps/findkey.Tpo -c findkey.c -fPIC -DPIC -o .libs/findkey.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT falloc.lo -MD -MP -MF .deps/falloc.Tpo -c falloc.c -fPIC -DPIC -o .libs/falloc.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT fullio.lo -MD -MP -MF .deps/fullio.Tpo -c fullio.c -fPIC -DPIC -o .libs/fullio.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmopen.lo -MD -MP -MF .deps/gdbmopen.Tpo -c gdbmopen.c -o gdbmopen.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmload.lo -MD -MP -MF .deps/gdbmload.Tpo -c gdbmload.c -o gdbmload.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT hash.lo -MD -MP -MF .deps/hash.Tpo -c hash.c -fPIC -DPIC -o .libs/hash.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT lock.lo -MD -MP -MF .deps/lock.Tpo -c lock.c -fPIC -DPIC -o .libs/lock.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT mmap.lo -MD -MP -MF .deps/mmap.Tpo -c mmap.c -fPIC -DPIC -o .libs/mmap.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT update.lo -MD -MP -MF .deps/update.Tpo -c update.c -fPIC -DPIC -o .libs/update.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT base64.lo -MD -MP -MF .deps/base64.Tpo -c base64.c -o base64.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT recover.lo -MD -MP -MF .deps/recover.Tpo -c recover.c -fPIC -DPIC -o .libs/recover.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT gdbmsync.lo -MD -MP -MF .deps/gdbmsync.Tpo -c gdbmsync.c -o gdbmsync.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT version.lo -MD -MP -MF .deps/version.Tpo -c version.c -fPIC -DPIC -o .libs/version.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT avail.lo -MD -MP -MF .deps/avail.Tpo -c avail.c -o avail.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT fullio.lo -MD -MP -MF .deps/fullio.Tpo -c fullio.c -o fullio.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT findkey.lo -MD -MP -MF .deps/findkey.Tpo -c findkey.c -o findkey.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT lock.lo -MD -MP -MF .deps/lock.Tpo -c lock.c -o lock.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT hash.lo -MD -MP -MF .deps/hash.Tpo -c hash.c -o hash.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT version.lo -MD -MP -MF .deps/version.Tpo -c version.c -o version.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT update.lo -MD -MP -MF .deps/update.Tpo -c update.c -o update.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT falloc.lo -MD -MP -MF .deps/falloc.Tpo -c falloc.c -o falloc.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT bucket.lo -MD -MP -MF .deps/bucket.Tpo -c bucket.c -o bucket.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT mmap.lo -MD -MP -MF .deps/mmap.Tpo -c mmap.c -o mmap.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -D_GNU_SOURCE -g -O2 -MT recover.lo -MD -MP -MF .deps/recover.Tpo -c recover.c -o recover.o
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -shared -fPIC -DPIC .libs/gdbmclose.o .libs/gdbmcount.o .libs/gdbmdelete.o .libs/gdbmdump.o .libs/gdbmerrno.o .libs/gdbmexists.o .libs/gdbmexp.o .libs/gdbmfdesc.o .libs/gdbmfetch.o .libs/gdbmload.o .libs/gdbmopen.o .libs/gdbmimp.o .libs/gdbmreorg.o .libs/gdbmseq.o .libs/gdbmsetopt.o .libs/gdbmstore.o .libs/gdbmsync.o .libs/avail.o .libs/base64.o .libs/bucket.o .libs/falloc.o .libs/findkey.o .libs/fullio.o .libs/hash.o .libs/lock.o .libs/mmap.o .libs/recover.o .libs/update.o .libs/version.o -g -O2 -Wl,-soname -Wl,libgdbm.so.6 -o .libs/libgdbm.so.6.0.0
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR="/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/share/locale" -I../src -I../src -I../tools -D_GNU_SOURCE -g -O2 -MT err.o -MD -MP -MF .deps/err.Tpo -c -o err.o err.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR="/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/share/locale" -I../src -I../src -I../tools -D_GNU_SOURCE -g -O2 -MT mem.o -MD -MP -MF .deps/mem.Tpo -c -o mem.o mem.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR="/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/share/locale" -I../src -I../src -I../tools -D_GNU_SOURCE -g -O2 -MT parseopt.o -MD -MP -MF .deps/parseopt.Tpo -c -o parseopt.o parseopt.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR="/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/share/locale" -I../src -I../src -I../tools -D_GNU_SOURCE -g -O2 -MT progname.o -MD -MP -MF .deps/progname.Tpo -c -o progname.o progname.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR="/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/share/locale" -I../src -I../src -I../tools -D_GNU_SOURCE -g -O2 -MT datconv.o -MD -MP -MF .deps/datconv.Tpo -c -o datconv.o datconv.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR="/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/share/locale" -I../src -I../src -I../tools -D_GNU_SOURCE -g -O2 -MT gram.o -MD -MP -MF .deps/gram.Tpo -c -o gram.o gram.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR="/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/share/locale" -I../src -I../src -I../tools -D_GNU_SOURCE -g -O2 -MT input-argv.o -MD -MP -MF .deps/input-argv.Tpo -c -o input-argv.o input-argv.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR="/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/share/locale" -I../src -I../src -I../tools -D_GNU_SOURCE -g -O2 -MT input-std.o -MD -MP -MF .deps/input-std.Tpo -c -o input-std.o input-std.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR="/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/share/locale" -I../src -I../src -I../tools -D_GNU_SOURCE -g -O2 -MT input-file.o -MD -MP -MF .deps/input-file.Tpo -c -o input-file.o input-file.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR="/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/share/locale" -I../src -I../src -I../tools -D_GNU_SOURCE -g -O2 -MT input-null.o -MD -MP -MF .deps/input-null.Tpo -c -o input-null.o input-null.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR="/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/share/locale" -I../src -I../src -I../tools -D_GNU_SOURCE -g -O2 -MT lex.o -MD -MP -MF .deps/lex.Tpo -c -o lex.o lex.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR="/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/share/locale" -I../src -I../src -I../tools -D_GNU_SOURCE -g -O2 -MT util.o -MD -MP -MF .deps/util.Tpo -c -o util.o util.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR="/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/share/locale" -I../src -I../src -I../tools -D_GNU_SOURCE -g -O2 -MT gdbmshell.o -MD -MP -MF .deps/gdbmshell.Tpo -c -o gdbmshell.o gdbmshell.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR="/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/share/locale" -I../src -I../src -I../tools -D_GNU_SOURCE -g -O2 -MT var.o -MD -MP -MF .deps/var.Tpo -c -o var.o var.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR="/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/share/locale" -I../src -I../src -I../tools -D_GNU_SOURCE -g -O2 -MT wordwrap.o -MD -MP -MF .deps/wordwrap.Tpo -c -o wordwrap.o wordwrap.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR="/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/share/locale" -I../src -I../src -I../tools -D_GNU_SOURCE -g -O2 -MT gdbmtool.o -MD -MP -MF .deps/gdbmtool.Tpo -c -o gdbmtool.o gdbmtool.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR="/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/share/locale" -I../src -I../src -I../tools -D_GNU_SOURCE -g -O2 -MT gdbm_load.o -MD -MP -MF .deps/gdbm_load.Tpo -c -o gdbm_load.o gdbm_load.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -DLOCALEDIR="/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/share/locale" -I../src -I../src -I../tools -D_GNU_SOURCE -g -O2 -MT gdbm_dump.o -MD -MP -MF .deps/gdbm_dump.Tpo -c -o gdbm_dump.o gdbm_dump.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -g -O2 -o .libs/gdbmtool gdbmtool.o ./libgdbmapp.a ../src/.libs/libgdbm.so -Wl,-rpath -Wl,/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/lib
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -g -O2 -o .libs/gdbm_load gdbm_load.o ./libgdbmapp.a ../src/.libs/libgdbm.so -Wl,-rpath -Wl,/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/lib
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -g -O2 -o .libs/gdbm_dump gdbm_dump.o ./libgdbmapp.a ../src/.libs/libgdbm.so -Wl,-rpath -Wl,/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/lib
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT delete.lo -MD -MP -MF .deps/delete.Tpo -c delete.c -fPIC -DPIC -o .libs/delete.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbminit.lo -MD -MP -MF .deps/dbminit.Tpo -c dbminit.c -fPIC -DPIC -o .libs/dbminit.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT fetch.lo -MD -MP -MF .deps/fetch.Tpo -c fetch.c -fPIC -DPIC -o .libs/fetch.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbmopen.lo -MD -MP -MF .deps/dbmopen.Tpo -c dbmopen.c -fPIC -DPIC -o .libs/dbmopen.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT store.lo -MD -MP -MF .deps/store.Tpo -c store.c -fPIC -DPIC -o .libs/store.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT seq.lo -MD -MP -MF .deps/seq.Tpo -c seq.c -fPIC -DPIC -o .libs/seq.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT close.lo -MD -MP -MF .deps/close.Tpo -c close.c -fPIC -DPIC -o .libs/close.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbmdelete.lo -MD -MP -MF .deps/dbmdelete.Tpo -c dbmdelete.c -fPIC -DPIC -o .libs/dbmdelete.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbmclose.lo -MD -MP -MF .deps/dbmclose.Tpo -c dbmclose.c -fPIC -DPIC -o .libs/dbmclose.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbmfetch.lo -MD -MP -MF .deps/dbmfetch.Tpo -c dbmfetch.c -fPIC -DPIC -o .libs/dbmfetch.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbmpagfno.lo -MD -MP -MF .deps/dbmpagfno.Tpo -c dbmpagfno.c -fPIC -DPIC -o .libs/dbmpagfno.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbmstore.lo -MD -MP -MF .deps/dbmstore.Tpo -c dbmstore.c -fPIC -DPIC -o .libs/dbmstore.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbmerr.lo -MD -MP -MF .deps/dbmerr.Tpo -c dbmerr.c -fPIC -DPIC -o .libs/dbmerr.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbmseq.lo -MD -MP -MF .deps/dbmseq.Tpo -c dbmseq.c -fPIC -DPIC -o .libs/dbmseq.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbmdirfno.lo -MD -MP -MF .deps/dbmdirfno.Tpo -c dbmdirfno.c -fPIC -DPIC -o .libs/dbmdirfno.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbmrdonly.lo -MD -MP -MF .deps/dbmrdonly.Tpo -c dbmrdonly.c -fPIC -DPIC -o .libs/dbmrdonly.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT fetch.lo -MD -MP -MF .deps/fetch.Tpo -c fetch.c -o fetch.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT delete.lo -MD -MP -MF .deps/delete.Tpo -c delete.c -o delete.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbminit.lo -MD -MP -MF .deps/dbminit.Tpo -c dbminit.c -o dbminit.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbmdelete.lo -MD -MP -MF .deps/dbmdelete.Tpo -c dbmdelete.c -o dbmdelete.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT seq.lo -MD -MP -MF .deps/seq.Tpo -c seq.c -o seq.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbmdirfno.lo -MD -MP -MF .deps/dbmdirfno.Tpo -c dbmdirfno.c -o dbmdirfno.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT store.lo -MD -MP -MF .deps/store.Tpo -c store.c -o store.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbmerr.lo -MD -MP -MF .deps/dbmerr.Tpo -c dbmerr.c -o dbmerr.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbmclose.lo -MD -MP -MF .deps/dbmclose.Tpo -c dbmclose.c -o dbmclose.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT close.lo -MD -MP -MF .deps/close.Tpo -c close.c -o close.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbmpagfno.lo -MD -MP -MF .deps/dbmpagfno.Tpo -c dbmpagfno.c -o dbmpagfno.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbmrdonly.lo -MD -MP -MF .deps/dbmrdonly.Tpo -c dbmrdonly.c -o dbmrdonly.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbmstore.lo -MD -MP -MF .deps/dbmstore.Tpo -c dbmstore.c -o dbmstore.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbmfetch.lo -MD -MP -MF .deps/dbmfetch.Tpo -c dbmfetch.c -o dbmfetch.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbmseq.lo -MD -MP -MF .deps/dbmseq.Tpo -c dbmseq.c -o dbmseq.o
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -DHAVE_CONFIG_H -I. -I.. -I./../src -I../src -D_GNU_SOURCE -g -O2 -MT dbmopen.lo -MD -MP -MF .deps/dbmopen.Tpo -c dbmopen.c -o dbmopen.o
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -shared -fPIC -DPIC .libs/dbminit.o .libs/delete.o .libs/fetch.o .libs/store.o .libs/seq.o .libs/close.o .libs/dbmopen.o .libs/dbmdelete.o .libs/dbmerr.o .libs/dbmfetch.o .libs/dbmstore.o .libs/dbmseq.o .libs/dbmclose.o .libs/dbmdirfno.o .libs/dbmpagfno.o .libs/dbmrdonly.o -Wl,-rpath -Wl,/tmp/pnsinha/spack-stage/spack-stage-gdbm-1.23-mkjzybs2dvz3w4w5wuprag4b464y5wn3/spack-src/src/.libs -Wl,-rpath -Wl,/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/lib ../src/.libs/libgdbm.so -g -O2 -Wl,-soname -Wl,libgdbm_compat.so.4 -o .libs/libgdbm_compat.so.4.0.0
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -shared -fPIC -DPIC .libs/dbminit.o .libs/delete.o .libs/fetch.o .libs/store.o .libs/seq.o .libs/close.o .libs/dbmopen.o .libs/dbmdelete.o .libs/dbmerr.o .libs/dbmfetch.o .libs/dbmstore.o .libs/dbmseq.o .libs/dbmclose.o .libs/dbmdirfno.o .libs/dbmpagfno.o .libs/dbmrdonly.o -Wl,-rpath -Wl,/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/lib -L/software/sw/spack-mw3/apps/linux-centos8-x86_64_v3/gcc-12.2.0/gdbm-1.23-mkjzybs/lib -lgdbm -g -O2 -Wl,-soname -Wl,libgdbm_compat.so.4 -o .libs/libgdbm_compat.so.4.0.0

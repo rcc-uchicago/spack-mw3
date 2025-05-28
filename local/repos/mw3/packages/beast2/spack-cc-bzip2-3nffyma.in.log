@@ -1,0 +1,13 @@
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c blocksort.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c huffman.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c crctable.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c randtable.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c compress.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c decompress.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c bzlib.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -shared -Wl,-soname -Wl,libbz2.so.1.0 -o libbz2.so.1.0.8 blocksort.o huffman.o crctable.o randtable.o compress.o decompress.o bzlib.o
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -o bzip2-shared bzip2.c libbz2.so.1.0.8
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c bzip2.c
+[cc] /software/gcc-12.2.0-el8-x86_64/bin/gcc -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c bzip2recover.c
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -o bzip2recover bzip2recover.o
+[ccld] /software/gcc-12.2.0-el8-x86_64/bin/gcc -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -o bzip2 bzip2.o -L. -lbz2
