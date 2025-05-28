@@ -26,11 +26,6 @@ Spack is a flexible, powerful package manager designed for HPC, enabling the ins
 ### The Midway3 Central Spack Instance
 RCC Midway3 provides a centrally managed Spack instance, maintained by Parmanand Sinha. This instance offers curated software packages, consistent configurations, integration with Lmod, and custom packages tailored for RCC. This documentation focuses on *using* this central instance for software management and module loading.
 
-### Key Locations for Midway3 Spack
-- **Spack Installation Root (`SPACK_ROOT`):** `/software/sw/spack-mw3/`
-- **Installed Software:** `/software/sw/spack-mw3/apps`
-- **Environment Modulefiles:** `/software/sw/spack-mw3/modulefiles`
-
 ### Loading Spack-based Modules
 Users can load Spack-based environment modules using the `spack.modules` modulefile:
 
@@ -114,69 +109,69 @@ The central Midway3 Spack instance uses `SPACK_DISABLE_LOCAL_CONFIG=true`. Your 
 
 ---
 
-## 9. Future Directions: CI/CD and Automation
+## 4. Key Configuration Details (Midway3 Spack)
 
-> **Note:** The following features are not yet implemented on this central Spack instance, but are planned for future development.
+### Key Locations for Midway3 Spack
+- **Spack Installation Root (`SPACK_ROOT`):** `/software/sw/spack-mw3/`
+- **Installed Software:** `/software/sw/spack-mw3/apps`
+- **Environment Modulefiles:** `/software/sw/spack-mw3/modulefiles`
 
-### Planned: Workflow Automation with GitLab CI/CD
-In the future, research workflows will be automated using GitLab CI/CD pipelines. This will allow for reproducible, automated builds and tests using Spack-managed software on Midway3.
+### Loading Spack-based Modules
+Users can load Spack-based environment modules using the `spack.modules` modulefile:
 
-- **GitLab CI/CD:** Automates building, testing, and deploying software via `.gitlab-ci.yml` in your repo.
-- **ECP CI Initiative:** [ECP CI](https://ecp-ci.gitlab.io/index.html) provides robust CI/CD for HPC.
-
-#### Example (for future reference):
-```yaml
-stages:
-  - build
-  - test
-
-compile_my_code:
-  stage: build
-  tags:
-    - midway3-batch
-  script:
-    - source /software/sw/spack-mw3/share/spack/setup-env.sh
-    - spack load cmake %gcc@11.2.0
-    - spack load mpich
-    - ./my_compile_script.sh
+```bash
+ml avail spack.modules
+ml load spack.modules
 ```
 
-#### Planned: Container Workflows
-- Use of Singularity/Apptainer containers for portable, reproducible scientific environments.
+This modulefile (`/software/modulefiles/spack.modules`) adds the Spack-generated modulefiles directory to your `MODULEPATH` and initializes the environment modules system. The relevant excerpt from the modulefile:
 
----
+```tcl
+#%Module1.0#########################################################
+## spack.module modulefile
+proc ModulesHelp { } {
+    global rkoversion
+    puts stderr "\tThis module file will add spack generated modules to the"
+    puts stderr "\tlist of directories that the module command will search"
+    puts stderr "\tfor modules.  Place your own module files here."
+    puts stderr "\tThis module, when loaded, will create this directory"
+    puts stderr "\tif necessary."
+    puts stderr "\n\tVersion $rkoversion\n"
+}
+module-whatis   "adds spack modulefiles directory to MODULEPATH"
+set     rkoversion      3.2.7
+source-sh bash /software/envmodule-4.7.1-el8-x86_64/init/bash
+set     spackmoddir       /software/sw/spack-mw3/modulefiles
+module use --prepend $spackmoddir
+```
 
-## 6. Key Configuration Details (Midway3 Spack)
-- **Central Configuration Files:** `/software/sw/spack-mw3/etc/spack/` (linked from `spack_yaml_config/mw3/`)
-- **Software Installation Tree:** `/software/sw/spack-mw3/apps`
-- **Build/Cache Locations:** `/scratch/midway3/$USER/` and `$TMPDIR/spack-stage`
+> **Note:** Loading `spack.modules` overrides the centrally available Environment Modules version **4.6.1** on Midway3 with version **4.7.1**. This does not require root privileges and can be done by any user. For a detailed comparison of module versions, see the [Environment Modules releases](https://github.com/envmodules/modules/releases/).
+
+#### Advantages of Environment Modules 4.7.1
+- **Hidden Modules:** Version 4.7.1 supports hidden modules, allowing users to hide deprecated or internal modules from standard `module avail` listings, reducing clutter and confusion.
+- **Improved Features:** Enhanced error messages, better TCL support, and more flexible modulepath management.
+
+#### Module System Structure
+- The current module system is **flat** (no hierarchy); all modules are in a single directory.
+- Future upgrades to the module system and modulefile generator can enable hierarchical module layouts, which help organize modules by compiler, MPI, or other criteria for large software stacks.
+
+- **Configuration Files:** `/software/sw/spack-mw3/etc/spack/`
 - **Custom Spack Packages:** `/software/sw/spack-mw3/local/midway3`
-- **Environment Modules:** `/software/sw/spack-mw3/modulefiles`
 - **Shared Spack Environments:** `/software/sw/shared/spackenv`
-
-### Configuration Scopes (from [spack_config])
-- **Default:** `$SPACK_ROOT/etc/spack/defaults` (do not modify)
-- **User:** `~/.spack` (ignored on Midway3; see below)
-- **Site:** `$SPACK_ROOT/etc/spack` (active for Midway3)
-- **Disable Local Config:**
-  ```bash
-  export SPACK_DISABLE_LOCAL_CONFIG=true
-  ```
-  This ensures only site configs are used.
+- **User-Specific Caches:** `/scratch/midway3/$USER/`
+- **Job-Specific Build Stage:** `$TMPDIR/spack-stage` (within Slurm jobs)
 
 ---
 
-## 7. Best Practices on Midway3
+## 5. Best Practices on Midway3
 - Prefer pre-installed Spack packages/modules
 - Leverage shared Spack environments
 - Use containers for portability/complex dependencies
-- Use CI/Jacamar batch runners for custom installs or container builds
-- Manage data/artifacts carefully (CI artifacts for small results, `/project` or `/scratch` for large data)
-- Version control code, scripts, `.gitlab-ci.yml`, and container definitions
+
 
 ---
 
-## 8. Troubleshooting
+## 6. Troubleshooting
 
 ### Spack Issues
 - Check logs, environment, permissions, and module conflicts
@@ -191,20 +186,11 @@ compile_my_code:
 - **Errors inside container:** Debug as you would locally, but inside the container context
 - **File system/mount issues:** Check Jacamar/Singularity docs for mount points
 
-### Getting Help
-- **Spack:** RCC Support
-- **ECP CI Docs:** [https://ecp-ci.gitlab.io/docs](https://ecp-ci.gitlab.io/docs)
-
 
 ---
 
-## 9. Contributing / Requesting Software or CI Features
-- **Spack Packages:** Request via RCC support
-- **CI/CD Features/Runners:** Discuss with RCC support
 
----
-
-## 10. Further Reading & References
+## 7. Further Reading & References
 - [ECP CI Initiative](https://ecp-ci.gitlab.io/index.html)
 - [ECP CI Tutorials](https://ecp-ci.gitlab.io/docs/tutorial.html)
 - [Official Spack Documentation](https://spack.readthedocs.io/)
