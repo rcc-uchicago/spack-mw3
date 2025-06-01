@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Environment files
+.env
+*.env
+
+
+# Backup files
+*~
+*.bak
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
